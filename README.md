@@ -18,8 +18,8 @@
 | Frontend | React.js, Vite, Tailwind CSS, React Router |
 | Backend | Python, FastAPI, Uvicorn |
 | Database | MongoDB Atlas (via Motor async driver) |
-| AI | Google Gemini 1.5 Flash (FREE) |
-| PDF Processing | PyMuPDF (fitz) |
+| AI | Groq API — Llama 3.3 70B (FREE) |
+| PDF Processing | pdfplumber |
 | File Storage | Cloudinary |
 | Auth | JWT (JSON Web Tokens) + Bcrypt |
 | Deployment | Vercel (frontend) + Render (backend) |
